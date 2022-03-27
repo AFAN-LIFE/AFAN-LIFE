@@ -1,33 +1,23 @@
 <h1 align="center">
-   🏆&nbsp;BILI-AFAN
+   <img src="./pics/logo.png" height="100">BILI-AFAN
     <br>
 </h1>
 
 <p align="center">
-    <strong>🌱&nbsp;B站费曼区UP主BILI-AFAN的资料汇总</strong>
+    <strong>B站费曼区UP主BILI-AFAN的资料汇总</strong>
 </p>
 
-<!--
-**BILI-AFAN/BILI-AFAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# L-学习
 
 # T-教学
 
 # P-工程
 
-# L-学习
-
 # S-分享
 
 # I-生活
+
+# A-公告
+
+- 2022.03.28  [01 第一个B站视频](https://www.bilibili.com/video/BV1j3411W7z5)
+
