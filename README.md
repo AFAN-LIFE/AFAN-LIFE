@@ -1,7 +1,8 @@
 <h1 align="center">
-   <img src="./pics/logo.png" height="100">BILI-AFAN
+   <img src="./pics/logo.png" height="100">
     <br>
 </h1>
+
 
 <p align="center">
     <strong>B站费曼区UP主BILI-AFAN的资料汇总</strong>
