@@ -13,13 +13,13 @@
 
 # A-公告
 
-- 2022.03.28  **A1 第一个B站视频**    [资料目录](./Announcement/A1 第一个B站视频)  [视频地址](https://www.bilibili.com/video/BV1j3411W7z5)
+- 2022.03.28  **A1 第一个B站视频**    [资料目录](Announcement/A1 第一个B站视频)  [视频地址](https://www.bilibili.com/video/BV1j3411W7z5)
 
 # L-学习
 
 # T-教学
 
-- 2022.03.31 **T1 Python安装和Jupyter使用**  [资料目录](./Teaching/T1 Python安装和Jupyter使用)  [视频地址](https://www.bilibili.com/video/BV1B44y1P7Je)
+- 2022.03.31 **T1 Python安装和Jupyter使用**  [资料目录](Teaching/T1 Python安装和Jupyter使用)  [视频地址](https://www.bilibili.com/video/BV1B44y1P7Je)
 
 # P-工程
 
