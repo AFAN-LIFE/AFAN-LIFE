@@ -31,7 +31,7 @@
 | ---------- | -------------------------------- | --------------------------------------------------------- | ------------------------------------------------------ | ------------------ |
 | 2022.03.31 | T1 Python安装和Jupyter使用       | [本仓库内](./Teaching/T1-Python安装和Jupyter使用)         | [B站地址](https://www.bilibili.com/video/BV1B44y1P7Je) | 学Python的第一视频 |
 | 2022.04.05 | T2.1 Tushare金融数据和Pandas介绍 | [本仓库内](./Teaching/T2-用Pandas分析Tushare上市公司信息) | [B站地址](https://www.bilibili.com/video/bv1a3411H7kP) | T2拆解后的上部分   |
-| 2022.04.06 | T2.2 Pandas分析Tushare上市公司信息 | [本仓库内](./Teaching/T2-用Pandas分析Tushare上市公司信息) | [B站地址](https://www.bilibili.com/video/BV16u411e7fU) | T2拆解后的下部分   |
+| 2022.04.05 | T2.2 Pandas分析Tushare上市公司信息 | [本仓库内](./Teaching/T2-用Pandas分析Tushare上市公司信息) | [B站地址](https://www.bilibili.com/video/BV16u411e7fU) | T2拆解后的下部分   |
 
 # L-学习
 
