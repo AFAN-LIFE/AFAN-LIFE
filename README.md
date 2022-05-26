@@ -6,6 +6,8 @@
 <p align="center">
     <strong>B站费曼区UP主BILI-AFAN的资料汇总</strong>
 </p>
+
+
 **Github地址**：https://github.com/bili-afan/bili-afan
 
 **Gitee地址**：https://gitee.com/bili-afan/bili-afan
@@ -33,7 +35,8 @@
 | 2022.04.05 | T2.2 Pandas分析Tushare上市公司信息 | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV16u411e7fU) | T2拆解后的下部分   |
 | 2022.04.19 | T3.1 Python语法基础——经济数据语句简单输出 | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV1HY4y1v7Ke/) | T3拆解后的上部分 |
 | 2022.04.20 | T3.2Python语法基础——复杂输出和抽象封装    | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV135411m7JC/) | T3拆解后的下部分 |
-| 2022.05.09 | T4 Python文件系统——高效管理投行申报目录 | 本仓库内Teaching文件夹 | B站审核中 | 一个综合的知识锻炼 |
+| 2022.05.09 | T4 Python文件系统——高效管理投行申报目录 | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV1y5411d7j1/) | 一个综合的知识锻炼 |
+| 2022.05.26 | T5 Numpy+Pandas+Matplotlib——用Python绘制股票K线图 | 本仓库内Teaching文件夹 | B站审核中 | 三剑客在手，数据分析随便走 |
 
 # L-学习
 
