@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+		<script type="text/javascript" src="echarts.js"></script>
+		<script type="text/javascript" src="jquery.js"></script>
+		<script type="text/javascript">
+			var option = {
+				 xAxis: {
+					type: 'category',
+					boundaryGap: false,
+					data: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
+				},
+				yAxis: {
+					type: 'value'
+				},
+				series: [{
+					data: [820, 932, 901, 934, 1290, 1330, 1320],
+					type: 'line',
+					areaStyle: {}
+				}]
+			};
+			window.onload=function(){
+				//1.初始化echarts
+				var myChart = echarts.init(document.getElementById("div_1"))				
+				//2.加载初始数据
+				myChart.setOption(option)
+				//3.动态加载数据
+				window.setInterval(function(){
+					$.get("http://127.0.0.1:5000/echarts",function(datax){
+						console.log(datax)
+						console.log(eval(datax))
+						option.series[0].data = eval(datax)
+						myChart.setOption(option)
+					})
+				}, 500);
+			}
+		</script>
+	</head>
+	<body>
+		<div id="div_1" style="width: 600px;height:400px;"></div>		
+	</body>
+</html>
