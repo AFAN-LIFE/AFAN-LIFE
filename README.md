@@ -39,6 +39,9 @@
 | 2022.05.09 | T4 Python文件系统——高效管理投行申报目录                  | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV1y5411d7j1/) | 一个综合的知识锻炼     |
 | 2022.05.26 | T5 Numpy+Pandas+Matplotlib——用Python绘制股票K线图 | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV1kS4y1z7JH/) | 三剑客在手，数据分析随便走 |
 | 2022.07.21 | T6.1 Python股票K线查询网页开发——产品经理/后端基础/Flask实操   | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV17Y4y1j7NB)  | Python后端基础    |
+| 2022.08.30 | T6.2 Python股票K线查询网页开发——前端基础/Echarts/联调展现   | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV1VT411c7LJ/) | Python前端基础    |
+
+
 
 # L-学习
 
@@ -46,9 +49,10 @@
 
 # S-分享
 
-| 上传时间       | 标题                    | 资料目录           | 视频地址                                                 | 说明           |
-| ---------- | --------------------- | -------------- | ---------------------------------------------------- | ------------ |
-| 2022.07.17 | S1 沟通与表达——金字塔原理       | 本仓库内Sharing文件夹 | [B站地址](https://www.bilibili.com/video/BV1kr4y1j75c/) | 通用的沟通表达方法    |
-| 2022.08.17 | S2 知识库构建-Git+Markdown | 本仓库内Sharing文件夹 | B站审核中                                                | 学习工作知识积累必备技能 |
+| 上传时间       | 标题                    | 资料目录           | 视频地址                                                 | 说明             |
+| ---------- | --------------------- | -------------- | ---------------------------------------------------- | -------------- |
+| 2022.07.17 | S1 沟通与表达——金字塔原理       | 本仓库内Sharing文件夹 | [B站地址](https://www.bilibili.com/video/BV1kr4y1j75c/) | 通用的沟通表达方法      |
+| 2022.08.17 | S2 知识库构建-Git+Markdown | 本仓库内Sharing文件夹 | [B站地址](https://www.bilibili.com/video/BV1cW4y1a7YB/) | 学习工作知识积累必备技能   |
+| 2022.10.24 | S3 本硕双非学长的商科考研建议      | 本仓库内Sharing文件夹 | B站上传中                                                | 老学长对商科在校生的考研建议 |
 
 # I-生活
