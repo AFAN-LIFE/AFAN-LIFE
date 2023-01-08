@@ -11,6 +11,8 @@
 
 **Gitee地址**：https://gitee.com/bili-afan/bili-afan
 
+**知识星球（永久免费）**：AFAN的费曼生活
+
 # 学习视频路径
 
 **这是什么：** 由于AFAN的视频都偏学习类，是学习就会有渐进的关系，所以AFAN想用这个学习路径图帮助大家可以从零到一实现某项场景技术。
@@ -29,18 +31,19 @@
 
 # T-教学
 
-| 上传时间       | 标题                                         | 资料目录            | 视频地址                                                 | 说明                |
-| ---------- | ------------------------------------------ | --------------- | ---------------------------------------------------- | ----------------- |
-| 2022.03.31 | T1 Python安装和Jupyter使用                      | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV1B44y1P7Je)  | 学Python第一个视频      |
-| 2022.04.05 | T2.1 Tushare金融数据和Pandas介绍                  | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/bv1a3411H7kP)  | 免费金融数据介绍          |
-| 2022.04.05 | T2.2 Pandas分析Tushare上市公司信息                 | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV16u411e7fU)  | 股票数据处理实操          |
-| 2022.04.19 | T3.1 Python语法基础——经济数据语句简单输出                | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV1HY4y1v7Ke/) | Python语法基础        |
-| 2022.04.20 | T3.2Python语法基础——复杂输出和抽象封装                  | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV135411m7JC/) | Python的工程化技术      |
-| 2022.05.09 | T4 Python文件系统——高效管理投行申报目录                  | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV1y5411d7j1/) | 一个综合的知识锻炼         |
-| 2022.05.26 | T5 Numpy+Pandas+Matplotlib——用Python绘制股票K线图 | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV1kS4y1z7JH/) | 三剑客在手，数据分析随便走     |
-| 2022.07.21 | T6.1 Python股票K线查询网页开发——产品经理/后端基础/Flask实操   | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV17Y4y1j7NB)  | Python后端基础        |
-| 2022.08.30 | T6.2 Python股票K线查询网页开发——前端基础/Echarts/联调展现   | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV1VT411c7LJ/) | Python前端基础        |
-| 2022.11.18 | T7 Python网络爬虫——使用东财金融数据进行杜邦分析              | 本仓库内Teaching文件夹 | B站上传中                                                | Python爬虫实战+金融财务知识 |
+| 上传时间       | 标题                                         | 资料目录            | 视频地址                                                 | 说明                       |
+| ---------- | ------------------------------------------ | --------------- | ---------------------------------------------------- | ------------------------ |
+| 2022.03.31 | T1 Python安装和Jupyter使用                      | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV1B44y1P7Je)  | 学Python第一个视频             |
+| 2022.04.05 | T2.1 Tushare金融数据和Pandas介绍                  | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/bv1a3411H7kP)  | 免费金融数据介绍                 |
+| 2022.04.05 | T2.2 Pandas分析Tushare上市公司信息                 | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV16u411e7fU)  | 股票数据处理实操                 |
+| 2022.04.19 | T3.1 Python语法基础——经济数据语句简单输出                | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV1HY4y1v7Ke/) | Python语法基础               |
+| 2022.04.20 | T3.2Python语法基础——复杂输出和抽象封装                  | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV135411m7JC/) | Python的工程化技术             |
+| 2022.05.09 | T4 Python文件系统——高效管理投行申报目录                  | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV1y5411d7j1/) | 一个综合的知识锻炼                |
+| 2022.05.26 | T5 Numpy+Pandas+Matplotlib——用Python绘制股票K线图 | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV1kS4y1z7JH/) | 三剑客在手，数据分析随便走            |
+| 2022.07.21 | T6.1 Python股票K线查询网页开发——产品经理/后端基础/Flask实操   | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV17Y4y1j7NB)  | Python后端基础               |
+| 2022.08.30 | T6.2 Python股票K线查询网页开发——前端基础/Echarts/联调展现   | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV1VT411c7LJ/) | Python前端基础               |
+| 2022.11.18 | T7 Python网络爬虫——使用东财金融数据进行杜邦分析              | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV1k8411j7tx/) | Python爬虫实战+金融财务知识        |
+| 2023.1.8   | T8 Python自动化Word——自动生成上市公司年报分析             | 本仓库内Teaching文件夹 | B站刚上传                                                | Python自动化word操作+上市公司年报分析 |
 
 # L-学习
 
@@ -48,10 +51,11 @@
 
 # S-分享
 
-| 上传时间       | 标题                    | 资料目录           | 视频地址                                                 | 说明             |
-| ---------- | --------------------- | -------------- | ---------------------------------------------------- | -------------- |
-| 2022.07.17 | S1 沟通与表达——金字塔原理       | 本仓库内Sharing文件夹 | [B站地址](https://www.bilibili.com/video/BV1kr4y1j75c/) | 通用的沟通表达方法      |
-| 2022.08.17 | S2 知识库构建-Git+Markdown | 本仓库内Sharing文件夹 | [B站地址](https://www.bilibili.com/video/BV1cW4y1a7YB/) | 学习工作知识积累必备技能   |
-| 2022.10.24 | S3 本硕双非学长的商科考研建议      | 本仓库内Sharing文件夹 | [B站地址](https://www.bilibili.com/video/BV1jg41187x3/) | 老学长对商科在校生的考研建议 |
+| 上传时间       | 标题                     | 资料目录           | 视频地址                                                 | 说明             |
+| ---------- | ---------------------- | -------------- | ---------------------------------------------------- | -------------- |
+| 2022.07.17 | S1 沟通与表达——金字塔原理        | 本仓库内Sharing文件夹 | [B站地址](https://www.bilibili.com/video/BV1kr4y1j75c/) | 通用的沟通表达方法      |
+| 2022.08.17 | S2 知识库构建-Git+Markdown  | 本仓库内Sharing文件夹 | [B站地址](https://www.bilibili.com/video/BV1cW4y1a7YB/) | 学习工作知识积累必备技能   |
+| 2022.10.24 | S3 本硕双非学长的商科考研建议       | 本仓库内Sharing文件夹 | [B站地址](https://www.bilibili.com/video/BV1jg41187x3/) | 老学长对商科在校生的考研建议 |
+| 2022.11.24 | S4 如何避免职场PUA——责任病毒读书分享 | 本仓库内Sharing文件夹 | [B站地址](https://www.bilibili.com/video/BV1JG4y1d7i3/) | 职场生存和发展的一些读书感悟 |
 
 # I-生活
