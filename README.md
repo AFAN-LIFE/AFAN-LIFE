@@ -47,7 +47,8 @@
 | 2022.11.18 | T7 Python网络爬虫——使用东财金融数据进行杜邦分析              | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV1k8411j7tx/) | Python爬虫实战+金融财务知识                   |
 | 2023.1.8   | T8 Python自动化Word——自动生成上市公司年报分析             | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV1MK41117vE/) | Python自动化word操作+上市公司年报分析            |
 | 2023.1.19  | T9 Python自动化Excel——自动进行企业营收战略规划            | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV1VG4y1F7fa/) | Python自动化excel操作+战略规划预测方法           |
-| 2023.2.2   | T10 Python数据库基础操作——基于Akshare存储股票行情数据       | 本仓库内Teaching文件夹 | B站刚上传                                                | Python对MySQL的基础操作+Akshare免费金融数据介绍使用 |
+| 2023.2.2   | T10 Python数据库基础操作——基于Akshare存储股票行情数据       | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV1ds4y1p7ew/) | Python对MySQL的基础操作+Akshare免费金融数据介绍使用 |
+| 2023.3.13  | T11 SQL高级查询+ Pandas分析——Kaggle信贷风控Vintage分析 | 本仓库内Teaching文件夹 | B站刚上传                                                | SQL高级查询语法+信贷风控分析场景介绍                |
 
 # P-工程
 
