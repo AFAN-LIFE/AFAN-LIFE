@@ -11,7 +11,9 @@
 
 **Gitee地址**：https://gitee.com/bili-afan/bili-afan
 
-**知识星球（永久免费）**：AFAN的费曼生活
+**知识星球（免费答疑）**：AFAN的费曼生活
+
+**知识星球（付费干货）**：AFAN的金融科技
 
 <img src="./pics/知识星球.png" title="" alt="" data-align="center">
 
@@ -48,7 +50,8 @@
 | 2023.1.8   | T8 Python自动化Word——自动生成上市公司年报分析             | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV1MK41117vE/) | Python自动化word操作+上市公司年报分析            |
 | 2023.1.19  | T9 Python自动化Excel——自动进行企业营收战略规划            | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV1VG4y1F7fa/) | Python自动化excel操作+战略规划预测方法           |
 | 2023.2.2   | T10 Python数据库基础操作——基于Akshare存储股票行情数据       | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV1ds4y1p7ew/) | Python对MySQL的基础操作+Akshare免费金融数据介绍使用 |
-| 2023.3.13  | T11 SQL高级查询+ Pandas分析——Kaggle信贷风控Vintage分析 | 本仓库内Teaching文件夹 | B站刚上传                                                | SQL高级查询语法+信贷风控分析场景介绍                |
+| 2023.3.13  | T11 SQL高级查询+ Pandas分析——Kaggle信贷风控Vintage分析 | 本仓库内Teaching文件夹 | [B站地址](https://www.bilibili.com/video/BV1h84y1A7sM)  | SQL高级查询语法+信贷风控分析场景介绍                |
+| 2023.8.14  | T11 SQL高级查询+ Pandas分析——Kaggle信贷风控Vintage分析 | 本仓库内Teaching文件夹 | B站刚上传                                                | ChatGPT的原理使用及Prompt基础               |
 
 # P-工程
 
