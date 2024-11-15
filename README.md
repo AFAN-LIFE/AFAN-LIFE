@@ -23,7 +23,7 @@ B站账号：[AFAN的金融科技](https://space.bilibili.com/1020711810)
 
 外部培训合作可参考：[教学培训合作](https://www.wolai.com/iyxvM81EfPsRPiesUbbieB)
 
-## 公开视频
+## 教学视频
 
 B站视频由于审核和分P限制，B站视频均为预览版，完整版在： [金融科技教学视频](https://www.wolai.com/tpfVJ9MvjarwipfbYBA21f)
 
@@ -45,3 +45,40 @@ B站视频由于审核和分P限制，B站视频均为预览版，完整版在�
 | 2023.3.13  | T11 SQL高级查询+ Pandas分析——Kaggle信贷风控Vintage分析 | 本仓库内Teaching文件夹                                                                | [B站地址](https://www.bilibili.com/video/BV1h84y1A7sM)  | SQL高级查询语法+信贷风控分析场景介绍                |
 | 2023.8.14  | T12 ChatGPT原理及Replit搭建大模型助手                | 本仓库内Teaching文件夹                                                                | [B站地址](https://www.bilibili.com/video/BV1Nh4y1D73V/) | ChatGPT的原理使用及Prompt基础               |
 | 2024.6.4   | T13 用Streamlit搭建中国宏观经济数据看板                 | [项目地址](https://github.com/AFAN-LIFE/macropage)[项目学习](https://t.zsxq.com/HfyuO) | [B站地址](https://www.bilibili.com/video/BV1fJ4m1u7u9/) | Streamlit基础操作和常见经济图表绘制              |
+
+## 技术妙招
+
+| 上传时间       | 标题                                | 资料目录          | 视频地址                                                 | 说明         |
+| ---------- | --------------------------------- | ------------- | ---------------------------------------------------- | ---------- |
+| 2024.11.15 | 别再低效concat！pandas快速合并dataframe小技巧 | 本仓库内Secret文件夹 | [B站地址](https://www.bilibili.com/video/BV12ZmZYKEHk/) | 数据合并操作效率提升 |
+| 2022.11.16 | 大文件Pandas读取慢？试试Polars！            | 本仓库内Secret文件夹 | 待上传                                                  | 数据读取操作效率提升 |
+
+## 知识星球直播
+
+24.11.16 金融隐私计算实战——基于Pysyft框架的案例演示：https://t.zsxq.com/rvrBr
+
+24.10.10 诺奖得主Hinton成果学习——基于Keras的深度学习实战：https://t.zsxq.com/COR5q
+
+24.09.01 从word2vec到大模型RAG——基于向量数据库faiss和深度学习：https://t.zsxq.com/QUzAA
+
+24.07.28 开源大模型对话平台ERNIEST源码解析：https://t.zsxq.com/HfyuO
+
+24.06.05 经典机器学习算法概览及金融场景应用介绍：https://t.zsxq.com/18yxM
+
+24.05.20 基于Llama3大模型部署微调搭建金融大模型对话机器人：https://t.zsxq.com/iPpo3
+
+24.04.17 SIMNOW行情软件介绍并使用VNPY进行期货仿真交易：https://t.zsxq.com/KRIkY
+
+24.03.04 如何快速上手Python工程——以缠中说禅框架为例：https://t.zsxq.com/j00wO
+
+24.03.19 如何用Streamlit制作宏观经济看板：https://t.zsxq.com/ip6Zt
+
+23.11.15 Python工程环境管理——本地打包、多版本、远程环境：https://t.zsxq.com/wDlZK
+
+23.09.30 金融投资业绩指标介绍——基于empyrical的计算梳理：https://t.zsxq.com/ur4eg
+
+23.08.31 量化回测平台使用——基于RQAlpha的定制开发：https://t.zsxq.com/DEcjk
+
+23.07.26 时序数据库使用介绍——以金融高频数据为例：https://t.zsxq.com/INKj9
+
+23.06.14: 量化投资因子分析——沪深300代码分析展示：https://t.zsxq.com/JhRgF
