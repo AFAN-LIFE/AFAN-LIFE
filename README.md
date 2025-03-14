@@ -48,37 +48,44 @@ B站视频由于审核和分P限制，B站视频均为预览版，完整版在�
 
 ## 技术妙招
 
-| 上传时间       | 标题                                | 资料目录          | 视频地址                                                 | 说明         |
-| ---------- | --------------------------------- | ------------- | ---------------------------------------------------- | ---------- |
-| 2024.11.15 | 别再低效concat！pandas快速合并dataframe小技巧 | 本仓库内Secret文件夹 | [B站地址](https://www.bilibili.com/video/BV12ZmZYKEHk/) | 数据合并操作效率提升 |
-| 2022.11.16 | 大文件Pandas读取慢？试试Polars！            | 本仓库内Secret文件夹 | 待上传                                                  | 数据读取操作效率提升 |
+| 上传时间       | 标题                                | 资料目录          | 视频地址                                                 | 说明            |
+| ---------- | --------------------------------- | ------------- | ---------------------------------------------------- | ------------- |
+| 2024.11.15 | 别再低效concat！pandas快速合并dataframe小技巧 | 本仓库内Secret文件夹 | [B站地址](https://www.bilibili.com/video/BV12ZmZYKEHk/) | 数据合并操作效率提升    |
+| 2024.11.16 | 大文件Pandas读取慢？试试Polars！            | 本仓库内Secret文件夹 | [B站地址](https://www.bilibili.com/video/BV17EUcY8ECm)  | 数据读取操作效率提升    |
+| 2025.03.14 | 会Python和会R的都沉默了！如何让Python优雅的调用R？  | 本仓库内Secret文件夹 | [B站地址](https://www.bilibili.com/video/BV1AsQTYhEra)  | 打通Python和R的接口 |
 
 ## 知识星球直播
 
-24.11.16 金融隐私计算实战——基于Pysyft框架的案例演示：https://t.zsxq.com/rvrBr
+25.02.27 Hadoop原理介绍及使用——Docker部署及Python API使用 [https://t.zsxq.com/P1fmi](https://t.zsxq.com/P1fmi)
 
-24.10.10 诺奖得主Hinton成果学习——基于Keras的深度学习实战：https://t.zsxq.com/COR5q
+24.12.29 Docker工程化教学——以macropage部署为例 [https://t.zsxq.com/cMKxd](https://t.zsxq.com/cMKxd)
 
-24.09.01 从word2vec到大模型RAG——基于向量数据库faiss和深度学习：https://t.zsxq.com/QUzAA
+24.12.08  从零到一手搓区块链  [https://t.zsxq.com/tXPLl](https://t.zsxq.com/tXPLl)
 
-24.07.28 开源大模型对话平台ERNIEST源码解析：https://t.zsxq.com/HfyuO
+24.11.16 金融隐私计算实战——基于Pysyft框架的案例演示：[https://t.zsxq.com/rvrBr](https://t.zsxq.com/rvrBr)
 
-24.06.05 经典机器学习算法概览及金融场景应用介绍：https://t.zsxq.com/18yxM
+24.10.10 诺奖得主Hinton成果学习——基于Keras的深度学习实战：[https://t.zsxq.com/COR5q](https://t.zsxq.com/COR5q)
 
-24.05.20 基于Llama3大模型部署微调搭建金融大模型对话机器人：https://t.zsxq.com/iPpo3
+24.09.01 从word2vec到大模型RAG——基于向量数据库faiss和深度学习：[https://t.zsxq.com/QUzAA](https://t.zsxq.com/QUzAA)
 
-24.04.17 SIMNOW行情软件介绍并使用VNPY进行期货仿真交易：https://t.zsxq.com/KRIkY
+24.07.28 开源大模型对话平台ERNIEST源码解析：[https://t.zsxq.com/HfyuO](https://t.zsxq.com/HfyuO)
 
-24.03.04 如何快速上手Python工程——以缠中说禅框架为例：https://t.zsxq.com/j00wO
+24.06.05 经典机器学习算法概览及金融场景应用介绍：[https://t.zsxq.com/18yxM](https://t.zsxq.com/18yxM)
 
-24.03.19 如何用Streamlit制作宏观经济看板：https://t.zsxq.com/ip6Zt
+24.05.20 基于Llama3大模型部署微调搭建金融大模型对话机器人：[https://t.zsxq.com/iPpo3](https://t.zsxq.com/iPpo3)
 
-23.11.15 Python工程环境管理——本地打包、多版本、远程环境：https://t.zsxq.com/wDlZK
+24.04.17 SIMNOW行情软件介绍并使用VNPY进行期货仿真交易：[https://t.zsxq.com/KRIkY](https://t.zsxq.com/KRIkY)
 
-23.09.30 金融投资业绩指标介绍——基于empyrical的计算梳理：https://t.zsxq.com/ur4eg
+24.03.04 如何快速上手Python工程——以缠中说禅框架为例：[https://t.zsxq.com/j00wO](https://t.zsxq.com/j00wO)
 
-23.08.31 量化回测平台使用——基于RQAlpha的定制开发：https://t.zsxq.com/DEcjk
+24.03.19 如何用Streamlit制作宏观经济看板：[https://t.zsxq.com/ip6Zt](https://t.zsxq.com/ip6Zt)
 
-23.07.26 时序数据库使用介绍——以金融高频数据为例：https://t.zsxq.com/INKj9
+23.11.15 Python工程环境管理——本地打包、多版本、远程环境：[https://t.zsxq.com/wDlZK](https://t.zsxq.com/wDlZK)
 
-23.06.14: 量化投资因子分析——沪深300代码分析展示：https://t.zsxq.com/JhRgF
+23.09.30 金融投资业绩指标介绍——基于empyrical的计算梳理：[https://t.zsxq.com/ur4eg](https://t.zsxq.com/ur4eg)
+
+23.08.31 量化回测平台使用——基于RQAlpha的定制开发：[https://t.zsxq.com/DEcjk](https://t.zsxq.com/DEcjk)
+
+23.07.26 时序数据库使用介绍——以金融高频数据为例：[https://t.zsxq.com/INKj9](https://t.zsxq.com/INKj9)
+
+23.06.14: 量化投资因子分析——沪深300代码分析展示：[https://t.zsxq.com/JhRgF](https://t.zsxq.com/JhRgF)
