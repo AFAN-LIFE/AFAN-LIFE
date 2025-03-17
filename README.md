@@ -48,11 +48,12 @@ B站视频由于审核和分P限制，B站视频均为预览版，完整版在�
 
 ## 技术妙招
 
-| 上传时间       | 标题                                | 资料目录          | 视频地址                                                 | 说明            |
-| ---------- | --------------------------------- | ------------- | ---------------------------------------------------- | ------------- |
-| 2024.11.15 | 别再低效concat！pandas快速合并dataframe小技巧 | 本仓库内Secret文件夹 | [B站地址](https://www.bilibili.com/video/BV12ZmZYKEHk/) | 数据合并操作效率提升    |
-| 2024.11.16 | 大文件Pandas读取慢？试试Polars！            | 本仓库内Secret文件夹 | [B站地址](https://www.bilibili.com/video/BV17EUcY8ECm)  | 数据读取操作效率提升    |
-| 2025.03.14 | 会Python和会R的都沉默了！如何让Python优雅的调用R？  | 本仓库内Secret文件夹 | [B站地址](https://www.bilibili.com/video/BV1AsQTYhEra)  | 打通Python和R的接口 |
+| 上传时间       | 标题                                | 资料目录          | 视频地址                                                 | 说明              |
+| ---------- | --------------------------------- | ------------- | ---------------------------------------------------- | --------------- |
+| 2024.11.15 | 别再低效concat！pandas快速合并dataframe小技巧 | 本仓库内Secret文件夹 | [B站地址](https://www.bilibili.com/video/BV12ZmZYKEHk/) | 数据合并操作效率提升      |
+| 2024.11.16 | 大文件Pandas读取慢？试试Polars！            | 本仓库内Secret文件夹 | [B站地址](https://www.bilibili.com/video/BV17EUcY8ECm)  | 数据读取操作效率提升      |
+| 2025.03.14 | 会Python和会R的都沉默了！如何让Python优雅的调用R？  | 本仓库内Secret文件夹 | [B站地址](https://www.bilibili.com/video/BV1AsQTYhEra)  | 打通Python和R的接口   |
+| 2025.03.17 | 包教包会！快速免费对接DeepSeek               | 本仓库内Secret文件夹 | [B站地址](https://www.bilibili.com/video/BV1QqXTYLEwk/) | Python对接硅基流动API |
 
 ## 知识星球直播
 
