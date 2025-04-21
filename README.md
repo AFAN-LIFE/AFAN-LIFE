@@ -43,17 +43,19 @@ B站视频由于审核和分P限制，B站视频均为预览版，完整版在�
 | 2023.8.14  | T12 ChatGPT原理及Replit搭建大模型助手                | [资料获取](<Teaching/T12 ChatGPT原理使用及Prompt基础——使用Replit搭建你的AI助手>)                      | [B站地址](https://www.bilibili.com/video/BV1Nh4y1D73V/)                                                              | ChatGPT的原理使用及Prompt基础               |
 | 2024.6.4   | T13 用Streamlit搭建中国宏观经济数据看板                 | [项目地址](https://github.com/AFAN-LIFE/macropage)<br>[项目学习](https://t.zsxq.com/HfyuO) | [B站地址](https://www.bilibili.com/video/BV1fJ4m1u7u9/)                                                              | Streamlit基础操作和常见经济图表绘制              |
 | 2025.4.1   | T14 机器学习算法概览和金融场景介绍——基于sklearn的代码实践        | [资料获取](<T14 机器学习算法概览和金融场景介绍——基于sklearn的代码实践>)                                      | [B站地址](https://www.bilibili.com/video/BV11LZHYsEdi/)<br>[微信地址](https://mp.weixin.qq.com/s/kZKhv-rIy7D7k9sEUhnZVQ) | 经典机器学习算法sklearn代码实践                 |
+| 2025.4.21  | T15 大模型微调和RAG增强检索——基于Llama和Faiss的代码实践      | [资料获取](<T15 大模型微调和RAG增强检索——基于Llama和Faiss的代码实践>)                                    | [微信地址](https://mp.weixin.qq.com/s/kZKhv-rIy7D7k9sEUhnZVQ)                                                         | 大模型必知必会的2种优化路径                      |
 
 ## 技术妙招
 
-| 上传时间       | 标题                                  | 资料目录                                                                                   | 视频地址                                                      | 说明               |
-| ---------- | ----------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------- | ---------------- |
-| 2024.11.15 | 别再低效concat！pandas快速合并dataframe小技巧   | [资料获取](Secret/241115_pandas快速合并dataframe)                                              | [B站地址](https://www.bilibili.com/video/BV12ZmZYKEHk/)      | 数据合并操作效率提升       |
-| 2024.11.16 | 大文件Pandas读取慢？试试Polars！              | [资料获取](Secret/241116_polars读取大csv文件)                                                   | [B站地址](https://www.bilibili.com/video/BV17EUcY8ECm)       | 数据读取操作效率提升       |
-| 2025.03.14 | 会Python和会R的都沉默了！如何让Python优雅的调用R？    | [资料获取](Secret/250314_用Python优雅的调用R)<br>[项目地址](https://github.com/AFAN-LIFE/R-Executor) | [B站地址](https://www.bilibili.com/video/BV1AsQTYhEra)       | 打通Python和R的接口    |
-| 2025.03.17 | 包教包会！快速免费对接DeepSeek                 | [资料获取](Secret/250317_DeepSeek硅基流动)                                                     | [B站地址](https://www.bilibili.com/video/BV1QqXTYLEwk/)      | Python对接硅基流动API  |
-| 2025.03.23 | DeepSeek会看图炒股？5分钟教会你用大模型进行形态学分析     | [资料获取](Secret/250323_DeepSeek形态学识别)                                                    | [微信地址](https://mp.weixin.qq.com/s/yR0qJitlvSB27Uz1KNvN_w) | DeepSeek对K线图识别预测 |
-| 2025.03.28 | 让DeepSeek无所不能？7分钟弄懂从函数调用到MCP，附代码实操！ | [资料获取](Secret/250327_MCP和函数调用天气服务)                                                     | [微信地址](https://mp.weixin.qq.com/s/PEV5Du5KI6E0M3lhOAYRjQ) | 大模型函数调用和MCP协议    |
+| 上传时间       | 标题                                            | 资料目录                                                                                   | 视频地址                                                      | 说明               |
+| ---------- | --------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------- | ---------------- |
+| 2024.11.15 | 别再低效concat！pandas快速合并dataframe小技巧             | [资料获取](Secret/241115_pandas快速合并dataframe)                                              | [B站地址](https://www.bilibili.com/video/BV12ZmZYKEHk/)      | 数据合并操作效率提升       |
+| 2024.11.16 | 大文件Pandas读取慢？试试Polars！                        | [资料获取](Secret/241116_polars读取大csv文件)                                                   | [B站地址](https://www.bilibili.com/video/BV17EUcY8ECm)       | 数据读取操作效率提升       |
+| 2025.03.14 | 会Python和会R的都沉默了！如何让Python优雅的调用R？              | [资料获取](Secret/250314_用Python优雅的调用R)<br>[项目地址](https://github.com/AFAN-LIFE/R-Executor) | [B站地址](https://www.bilibili.com/video/BV1AsQTYhEra)       | 打通Python和R的接口    |
+| 2025.03.17 | 包教包会！快速免费对接DeepSeek                           | [资料获取](Secret/250317_DeepSeek硅基流动)                                                     | [B站地址](https://www.bilibili.com/video/BV1QqXTYLEwk/)      | Python对接硅基流动API  |
+| 2025.03.23 | DeepSeek会看图炒股？5分钟教会你用大模型进行形态学分析               | [资料获取](Secret/250323_DeepSeek形态学识别)                                                    | [微信地址](https://mp.weixin.qq.com/s/yR0qJitlvSB27Uz1KNvN_w) | DeepSeek对K线图识别预测 |
+| 2025.03.28 | 让DeepSeek无所不能？7分钟弄懂从函数调用到MCP，附代码实操！           | [资料获取](Secret/250327_MCP和函数调用天气服务)                                                     | [微信地址](https://mp.weixin.qq.com/s/PEV5Du5KI6E0M3lhOAYRjQ) | 大模型函数调用和MCP协议    |
+| 2025.04.09 | DeepSeek看盘升级版！TA-Lib生成MACD/布林带，DeepSeek秒读形态分析 | [资料获取](Secret/250409_DeepSeek+TA-Lib)                                                  | [微信地址](https://mp.weixin.qq.com/s/mE0USsmClWipNol-wYLlbA) | TA-Lib实战学习       |
 
 ## 知识星球直播
 
